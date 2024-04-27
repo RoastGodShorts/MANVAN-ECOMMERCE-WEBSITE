@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MANVAN-ECOMMERCE-WEBSITE/static/css/main.2c6250ce.css",
+    "main.js": "/MANVAN-ECOMMERCE-WEBSITE/static/js/main.39c09723.js",
+    "static/media/icon-5359553_1280.png": "/MANVAN-ECOMMERCE-WEBSITE/static/media/icon-5359553_1280.6023f7549290dfdbd51d.png",
+    "static/media/logo.png": "/MANVAN-ECOMMERCE-WEBSITE/static/media/logo.3d9e9e490ca8cbfd4596.png",
+    "index.html": "/MANVAN-ECOMMERCE-WEBSITE/index.html",
+    "main.2c6250ce.css.map": "/MANVAN-ECOMMERCE-WEBSITE/static/css/main.2c6250ce.css.map",
+    "main.39c09723.js.map": "/MANVAN-ECOMMERCE-WEBSITE/static/js/main.39c09723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c6250ce.css",
+    "static/js/main.39c09723.js"
+  ]
+}
